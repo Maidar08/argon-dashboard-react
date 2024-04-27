@@ -44,9 +44,11 @@
   ],
   "dependencies": {
     "@fortawesome/fontawesome-free": "6.5.1",
+    "antd": "^5.16.4",
     "bootstrap": "4.6.2",
     "chart.js": "2.9.4",
     "classnames": "2.3.2",
+    "keycloak-js": "^24.0.3",
     "moment": "2.29.4",
     "nouislider": "15.4.0",
     "react": "18.2.0",
@@ -61,7 +63,8 @@
   },
   "devDependencies": {
     "gulp": "4.0.2",
-    "gulp-append-prepend": "1.0.9"
+    "gulp-append-prepend": "1.0.9",
+    "react-hook-form": "^7.51.3"
   },
   "optionalDependencies": {
     "eslint-plugin-flowtype": "8.0.3",
